@@ -1,2 +1,3 @@
-Deneme
-![image](https://github.com/user-attachments/assets/bdbd9197-7b6b-4fbd-8f55-ff804f0e49ca)
+Bu kampın 301 modülü sayesinde veritabanlarını daha etkin bir şekilde yönetmeyi öğrendim. Özellikle Entity Framework ile CRUD işlemlerini gerçekleştirmeyi, LINQ kullanarak okunabilir ve güçlü sorgular yazmayı, ayrıca migration ile veritabanı şemalarını güvenle güncellemeyi deneyimledim. ORM mantığını anlamam ve nesne tabanlı programlama ile veritabanı yönetimini birleştirme yetkinliğim gelişti. Sunduğunuz örnekler ve uygulamalar, gerçek dünya projelerinde karşılaşabileceğim durumlara hazırlanmamı sağladı. Tüm emeğiniz için çok teşekkür ederim!
+
+![image](https://github.com/user-attachments/assets/61ab0798-a388-4e2a-b292-e3b1ccf6536a)
